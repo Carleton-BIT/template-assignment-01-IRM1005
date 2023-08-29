@@ -1,4 +1,4 @@
-# Assignment 02
+# Assignment 01
 
 **Course Title**: Web Development
 
