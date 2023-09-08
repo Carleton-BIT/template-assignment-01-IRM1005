@@ -15,7 +15,7 @@
 1. Build one (1) web page using HTML code that satisfies all content and submission requirements for this assignment.
 2. Commit your code to your assignment repository in GitHub.
 3. Turn on GitHub pages services in your repository to host the web page online.
-3. Using the `W3C Validator` check the compliance of your page and one of your team members pages, and create an issue in their GitHub respository to inform them the results of the check.
+4. Using the `W3C Validator` check the compliance of your page and one of your team members pages, and create an issue in their GitHub respository to inform them the results of the check.
 
 ## Description
 
@@ -33,7 +33,7 @@ Create and host a web page that meets the following requirements:
 
 ## Content requirements
 
-For the actual content of your web page, you can select anything you want, a long as it meets the structural requirements defined further below. Here are some examples of what you can build: 
+For the actual content of your web page, you can select anything you want, a long as it meets the structural requirements defined further below. Here are some examples of what you can build:
 
 - Personal blog page / article
 - Corporate landing page
@@ -51,7 +51,7 @@ The web page that you are building must have the following **minimum requirement
     - Minimum of three (3) navigation menu items
 - Main Section
   - Hero section
-    - Includes one (1) image  
+    - Includes one (1) image
   - Three (3) additional content sections (for example)
     - Customer testimonials
     - Product descriptions and screenshots
@@ -110,10 +110,11 @@ To help with your submission, make sure that you have reviewed the following ite
 
 Your work must be submitted to your Assignment 01 GitHub repository, which is automatically generated when you accept the assignment through GitHub Classrooms.
 
-There are two ways that you can submit your work to your Assignment 01 repository:
+There are a few ways that you can submit your work to your Assignment 01 repository:
 
 - Clone your GitHub repository, work off of your local machine, and commit your changes through VSCode (recommended)
 - Use the GitHub code editor web interface to paste your completed code right into GitHub
+- Use a developer container such as GitHub Code Spaces, StackBlitz or replit
 
 ## Frequently Asked Questions (FAQ)
 
