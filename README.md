@@ -4,11 +4,11 @@
 
 **Course Code**: IRM1005 / ITEC1005
 
-**Semester**: Fall 2023
+**Semester**: Fall 2024
 
-**Due Date**: 11:59 PM on October 1, 2023
+**Due Date**: 11:59 PM on Sep 29, 2024
 
-**Assessment**: This assignment is worth 10% of your final grade and marked out of 100.
+**Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
 ## TLDR
 
@@ -96,8 +96,7 @@ The creation and posting of this web page is worth 10% of your final grade and m
 
 ## Late submissions
 
-- If you are ill or any other issues arise that are beyond your control, please email [neil.mispelaar@carleton.ca](mailto:neil.mispelaar@carleton.ca) 24 hours before the specified due date to request a one week extention.
-- If you fail to obtain an extentaion or fail to inform the instructor of any extenuating circumstances that cause a delay in your submission by the posted due date, you will receive a mark of **Zero (0)** for the assignment.
+- See syllabus/lecture 1 slides for late policy
 
 ## Checklist
 
@@ -105,7 +104,7 @@ To help with your submission, make sure that you have reviewed the following ite
 
 - [x] Your code is committed and pushed to the GitHub repo that GitHub Classrooms created for you
 - [x] The web page fulfills the minimum content requirements
-- [x] [GitHub Pages](https://docs.github.com/en/pages) is activated for your repo and your web page is live and accessible. If you are unsure, send your link to a team member and see if they can access your site from their machine.
+- [x] [GitHub Pages](https://docs.github.com/en/pages) is activated for your repo and your web page is live and accessible. If you are unsure, send your link to another student in the class and see if they can access your site from their machine.
 - [x] The web page passes [W3C validation](https://validator.w3.org/#validate_by_uri)
 
 ## Submitting your work
@@ -135,9 +134,6 @@ There are a few ways that you can submit your work to your Assignment 01 reposit
 
   <dt>Do I need to include sketches, concepts, or initial content drafts?</dt>
   <dd>No. You are only being assessed on the quality of your HTML code, and what you submit to your GitHub repository. </dd>
- 
-  <dt>Can I use trademarked or copywritten material on my page?</dt>
-  <dd>Yes! As this is for educational purposes, all of the source is open, and no one is trying to sell their design or code you can absolutely use trademarked or copywritten material. Just add a comment in your code where you got the material.</dd>
  
 </dl>
 
