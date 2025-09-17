@@ -6,7 +6,7 @@
 
 **Semester**: Fall 2024
 
-**Due Date**: 11:59 PM on Sep 29, 2024
+**Due Date**: 11:59 PM on Sep 28, 2025
 
 **Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
