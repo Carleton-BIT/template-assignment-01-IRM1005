@@ -6,7 +6,7 @@
 
 **Semester**: Fall 2024
 
-**Due Date**: 11:59 PM on Sep 28, 2025
+**Due Date**: 11:59 PM on Sep 28, 2025 (GitHub Classroom's "due date" is the cutoff date where late submissions will no longer be accepted. See course late policy.)
 
 **Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
